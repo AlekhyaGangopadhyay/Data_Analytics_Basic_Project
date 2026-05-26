@@ -2,7 +2,8 @@
 
 Hi, I'm Alekhya 👋
 
-I am currently learning Data Analytics from **ALEX THE ANALYST**.
+I am currently learning Data Analytics from **Alex The Analyst**.
+https://github.com/AlexTheAnalyst
 
 This repository contains my basic projects, practice files, and learning progress in:
 
